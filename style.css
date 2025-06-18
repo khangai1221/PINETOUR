@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-image: url("photos/87cef5d5d40a9f22a64d6937ad2f7df5b04e3d85.png");
+    background-image: url("/87cef5d5d40a9f22a64d6937ad2f7df5b04e3d85.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -44,7 +44,7 @@ body {
 .logo {
     background-size: cover;
     background-position: center;
-    background-image: url("photos/logo.png");
+    background-image: url("/logo.png");
     width: 101px;
     height: 35px;
 }
@@ -65,7 +65,7 @@ h1 {
     justify-content: space-between;
     margin: 0 auto;
     padding: 60px;
-    background-image: url("./photos/Location\ image.jpg");
+    background-image: url("./Location\ image.jpg");
     width: 1440px;
     height: 500px;
     
@@ -92,26 +92,26 @@ h1 {
     box-shadow: 8px 8px 0 #29728b40 , -8px -8px #1f72aa75;
 }
 .white-lake {
-    background-image: url("photos/94117af0fae2d95b54ef6842a38934433c1d99d7.png");
+    background-image: url("/94117af0fae2d95b54ef6842a38934433c1d99d7.png");
 }
 
 .photo1 {
-    background-image: url("photos/image (1).png");
+    background-image: url("/image (1).png");
 }
 
 .photo2 {
-    background-image: url("photos/image (2).png");
+    background-image: url("/image (2).png");
 }
 
 .photo3 {
-    background-image: url("photos/image (3).png");
+    background-image: url("/image (3).png");
 }
 
 .language {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("./photos/Language.jpg");
+    background-image: url("./Language.jpg");
     width: 20px;
     height: 20px;
     top: 3.5px;
@@ -125,7 +125,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("photos/user.jpg");
+    background-image: url("/user.jpg");
     width: 20px;
     height: 20px;
     top: -23px;
@@ -150,7 +150,7 @@ h1 {
     font-size: 64px;
 }
 .roadmap{
-    background-image: url("./photos/Roadmap\ image.jpg");
+    background-image: url("./Roadmap\ image.jpg");
     width: 1440px;
     height: 1022px;
     padding: 60px;
@@ -235,7 +235,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("./photos/Footer.png");
+    background-image: url("./Footer.png");
     width: 1440px;
     height: 1120px;
     padding: 60px;
